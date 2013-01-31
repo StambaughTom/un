@@ -1,6 +1,8 @@
 project un
 ==
 
+github is dumb, please view this document as raw text.
+
 Un is a multi user dungeon written in C++ for Windows machines. The perferred compiler/IDE is MSVC for this project. 
 
 Conventions
